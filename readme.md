@@ -9,4 +9,8 @@ source .venv/bin/activate
 pip install -r ./requirements.txt
 ```
 
-Selecione o .venv como kernel do notebook execute-o
+Selecione o .venv como kernel do notebook e execute-o
+
+## Conclusões
+
+Para ler o resumo executivo, [clique aqui](./resumo_executivo.md)
